@@ -2,17 +2,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20VaishnaviPadala&height=120&fontSize=40&fontColor=ffffff)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&lines=SoftwareDeveloper;YOUR+SECOND+LINE;YOUR+THIRD+LINE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&lines=SoftwareDeveloper;)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[CareConnect](https://github.com/vaishnavipadala13/CareConnect)**
 - 🌱 Currently learning **Generative AI, RAG**
-- 💬 Ask me about **Python, Data Analytics, Full-Stack Web Development, React, TypeScript & Node.js**
-- 📫 Reach me at **vaishnavipadala13@gmail.com
-www.linkedin.com/in/vaishnavi-padala-154189328**
+- 💬 Ask me about **Python, Artificial Intelligence, Data Analytics, Full-Stack Web Development**
+- 📫 Reach me at **vaishnavipadala13@gmail.com, www.linkedin.com/in/vaishnavi-padala-154189328**
   
 
 ---
@@ -33,6 +31,7 @@ www.linkedin.com/in/vaishnavi-padala-154189328**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -43,7 +42,7 @@ www.linkedin.com/in/vaishnavi-padala-154189328**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipadala13&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
