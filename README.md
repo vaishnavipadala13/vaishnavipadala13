@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Generative AI, RAG**
-- 💬 Ask me about **Python, Artificial Intelligence, Data Analytics, Full-Stack Web Development**
+- 🌱 Currently learning **Generative AI & RAG**
+- 💬 Ask me about **Python, Artificial Intelligence, Data Analytics & Full-Stack Web Development**
 - 📫 Reach me at **vaishnavipadala13@gmail.com, www.linkedin.com/in/vaishnavi-padala-154189328**
   
 
