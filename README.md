@@ -1,5 +1,9 @@
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20VaishnaviPadala&height=120&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/text=Hi,%20I'm%20VaishnaviPadala&height=120&fontSize=40&fontColor=ffffff)
+
+<!-- Typing animation via readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&lines=Student;Software+Developer)](https://git.io/typing-svg)
+
 
 
 ## 👨‍💻 About Me
