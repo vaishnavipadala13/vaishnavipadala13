@@ -1,10 +1,6 @@
 <!-- Header Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20VaishnaviPadala&height=120&fontSize=40&fontColor=ffffff)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&lines=SoftwareDeveloper;)](https://git.io/typing-svg)
-
----
 
 ## 👨‍💻 About Me
 
@@ -53,7 +49,7 @@
 
 | 🔥 Project | 📝 Description | 🛠️ Tech |
 |-----------|---------------|---------|
-| [CareConnect_1](https://github.com/CareConnect/) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | TypeScript, HTML5, Tailwind CSS, MongoDB  |
+| [CareConnect_1](https://github.com/CareConnect/) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | TypeScript, JavaScript, HTML5, Tailwind CSS, MongoDB  |
 
 ---
 
