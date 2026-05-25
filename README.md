@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavipadala13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -53,7 +53,7 @@
 
 | 🔥 Project | 📝 Description | 🛠️ Tech |
 |-----------|---------------|---------|
-| [CareConnect_1](https://github.com/CareConnect/YOUR_REPO_1) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | TypeScript, HTML5, Tailwind CSS, MongoDB  |
+| [CareConnect_1](https://github.com/CareConnect/) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | TypeScript, HTML5, Tailwind CSS, MongoDB  |
 
 ---
 
@@ -63,6 +63,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishnavipadala13@gmail.com)
 
 ---
-
-<!-- Profile view counter (auto-tracks visits) -->
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7F77DD&style=flat-square&label=Profile+Views)
