@@ -11,6 +11,12 @@
 - 📫 Reach me at **vaishnavipadala13@gmail.com, www.linkedin.com/in/vaishnavi-padala-154189328**
   
 
+**Frontend:** HTML/CSS · JavaScript · TypeScript · React · Angular · Tailwind CSS
+**Backend:** Python · Node.js
+**Databases:** SQL · NoSQL · MongoDB
+**DevOps & Cloud:** AWS · Docker · CI/CD
+**Mobile:** React Native · Flutter . UI/UX
+
 ---
 
 ## 🛠️ Tech Stack
