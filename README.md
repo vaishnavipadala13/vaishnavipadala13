@@ -56,7 +56,7 @@
 
 | 🔥 Project | 📝 Description | 🛠️ Tech |
 |-----------|---------------|---------|
-| [CareConnect_1](https://github.com/CareConnect/) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | JavaScript, TypeScript, HTML5, Tailwind CSS, MongoDB  |
+| [CareConnect_1](https://github.com/CareConnect/) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | JavaScript, TypeScript, Node.js, HTML5, Tailwind CSS, MongoDB  |
 
 ---
 
