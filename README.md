@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Generative AI & RAG**
-- 💬 Ask me about **Python, Artificial Intelligence, Data Analytics & Full-Stack Web Development**
-- 📫 Reach me at **vaishnavipadala13@gmail.com**
+-  Currently learning **Generative AI & RAG**
+-  Ask me about **Python, Artificial Intelligence, Data Analytics & Full-Stack Web Development**
+-  Reach me at **vaishnavipadala13@gmail.com**
   
 
 ---
