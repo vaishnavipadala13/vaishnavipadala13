@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning **Generative AI & RAG**
 - 💬 Ask me about **Python, Artificial Intelligence, Data Analytics & Full-Stack Web Development**
-- 📫 Reach me at **vaishnavipadala13@gmail.com, www.linkedin.com/in/vaishnavi-padala-154189328**
+- 📫 Reach me at **vaishnavipadala13@gmail.com**
   
 
 ---
@@ -56,7 +56,7 @@
 
 | 🔥 Project | 📝 Description | 🛠️ Tech |
 |-----------|---------------|---------|
-| [CareConnect_1](https://github.com/CareConnect/) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | JavaScript, TypeScript, Node.js, HTML5, Tailwind CSS, MongoDB  |
+| [CareConnect_1](https://github.com/CareConnect/) | Bed & Blood Tracker is a real-time healthcare web application designed to provide instant visibility into hospital bed availability and blood bank inventory. The platform helps hospitals, blood banks, emergency responders, and patients quickly access critical healthcare resources during emergencies and routine operations. | TypeScript, Node.js, Tailwind CSS, MongoDB  |
 
 ---
 
