@@ -4,7 +4,7 @@
 
 
 
-## 👨‍💻 About Me
+##  About Me
 
 -  Currently learning **Generative AI & RAG**
 -  Ask me about **Python, Artificial Intelligence, Data Analytics & Full-Stack Web Development**
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 </div>
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | 🔥 Project | 📝 Description | 🛠️ Tech |
 |-----------|---------------|---------|
