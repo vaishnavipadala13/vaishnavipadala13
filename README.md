@@ -42,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
----
+
 
 ##  GitHub Stats
 
@@ -50,12 +50,11 @@
 
 ![vaishnavipadala13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavipadala13&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues,contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipadala13&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavipadala13&theme=tokyonight)
 
 </div>
----
+
 
 ##  Featured Projects
 
