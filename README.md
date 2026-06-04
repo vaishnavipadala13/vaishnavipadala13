@@ -61,7 +61,7 @@
 
 |  Project |  Description |  Tech |
 |-----------|---------------|---------|
-| [CareConnect_1](https://github.com/CareConnect/) | CareConnect is a real-time healthcare resource management web application designed to simplify and improve the process of tracking hospital bed availability and blood bank inventory during emergency situations. The platform helps hospitals, blood banks, emergecy responders and patients quickly access critical healthcare resources during emergencies | JavaScript, React, TypeScript, Tailwind CSS, Node.js, MongoDB  |
+| [CareConnect_1](https://github.com/CareConnect/) | CareConnect is a real-time healthcare resource management web application designed to simplify and improve the process of tracking hospital bed availability and blood bank inventory during emergency situations. The platform helps hospitals, blood banks, emergecy responders and patients quickly access critical healthcare resources during emergencies | TypeScript, React, JavaScript, Tailwind CSS, Node.js, MongoDB  |
 
 ---
 
