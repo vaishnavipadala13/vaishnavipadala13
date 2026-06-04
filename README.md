@@ -48,8 +48,6 @@
 
 <div align="center">
 
-![vaishnavipadala13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavipadala13&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues,contribs)
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavipadala13&theme=tokyonight)
 
