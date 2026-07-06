@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Vaishnavi+Padala&height=120&fontSize=40&fontColor=ffffff&animation=false)
-<!-- Typing animation via readme-typing-svg -->
+![header](https://capsule-render.vercel.app/api?type=flat&color=gradient&text=Vaishnavi+Padala&height=120&fontSize=40&fontColor=000000&animation=false)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&lines=Information+Technology+Student;Software+Developer)](https://git.io/typing-svg)
 
 
