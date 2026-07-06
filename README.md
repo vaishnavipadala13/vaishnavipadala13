@@ -35,9 +35,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -58,7 +56,7 @@
 
 | Project | Description | Tech |
 |---------|--------------|------|
-| [CareConnect_1](https://github.com/CareConnect/) | CareConnect is a real-time healthcare resource management web application designed to simplify and improve the process of tracking hospital bed availability and blood bank inventory during emergency situations. The platform helps hospitals, blood banks, emergency responders and patients quickly access critical healthcare resources during emergencies | TypeScript, React, JavaScript, Tailwind CSS, Node.js, MongoDB |
+| [CareConnect](https://github.com/CareConnect/) | CareConnect is a real-time healthcare resource management web application designed to simplify and improve the process of tracking hospital bed availability and blood bank inventory during emergency situations. The platform helps hospitals, blood banks, emergency responders and patients quickly access critical healthcare resources during emergencies | TypeScript, React, JavaScript, Tailwind CSS, Node.js, MongoDB |
 | [NexusFlow](https://github.com/NexusFlow/) | NexusFlow is a unified AI platform bringing every AI tool category — image, video, code, docs, agents, and app builders — under one interface. It lets users run and resume AI tasks entirely in-app, with zero external redirects. | Next.js, React, TypeScript, Tailwind CSS, Supabase, OpenRouter |
 ---
 
