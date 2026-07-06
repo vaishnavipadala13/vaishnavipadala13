@@ -1,4 +1,4 @@
-<h1 align="center" style="color:black;">Vaishnavi Padala</h1>
+<h1 align="center">Vaishnavi Padala</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&lines=Information+Technology+Student;Software+Developer)](https://git.io/typing-svg)
 
