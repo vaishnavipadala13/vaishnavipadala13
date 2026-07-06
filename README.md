@@ -54,14 +54,12 @@
 </div>
 
 
-##  Featured Projects
+## Featured Projects
 
-|  Project |  Description |  Tech |
-|-----------|---------------|---------|
-| [CareConnect_1](https://github.com/CareConnect/) | CareConnect is a real-time healthcare resource management web application designed to simplify and improve the process of tracking hospital bed availability and blood bank inventory during emergency situations. The platform helps hospitals, blood banks, emergecy responders and patients quickly access critical healthcare resources during emergencies | TypeScript, React, JavaScript, Tailwind CSS, Node.js, MongoDB  |
-
-| [NexusFlow](https://github.com/NexusFlow/)       | NexusFlow is a unified AI platform bringing every AI tool category — image, video, code, docs, agents, and app builders — under one interface. It lets users run and resume AI tasks entirely in-app, with zero external redirects. | Next.js, React, TypeScript, Tailwind CSS, Supabase, OpenRouter |
-
+| Project | Description | Tech |
+|---------|--------------|------|
+| [CareConnect_1](https://github.com/CareConnect/) | CareConnect is a real-time healthcare resource management web application designed to simplify and improve the process of tracking hospital bed availability and blood bank inventory during emergency situations. The platform helps hospitals, blood banks, emergency responders and patients quickly access critical healthcare resources during emergencies | TypeScript, React, JavaScript, Tailwind CSS, Node.js, MongoDB |
+| [NexusFlow](https://github.com/NexusFlow/) | NexusFlow is a unified AI platform bringing every AI tool category — image, video, code, docs, agents, and app builders — under one interface. It lets users run and resume AI tasks entirely in-app, with zero external redirects. | Next.js, React, TypeScript, Tailwind CSS, Supabase, OpenRouter |
 ---
 
 ##  Connect With Me
